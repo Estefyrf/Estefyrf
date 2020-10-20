@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on JS, HTML, CSS and React
 - 🌱 I’m currently learning React Hooks
-- 📫 How to reach me: estefyramirezf@gmail.com
+- 📫 How to reach me: [estefyramirezf@gmail.com](mailto:estefyramirezf@gmail.com)
 - ⚡ Fun fact: I studied animation engineering 
 
 ## Languages and Tools
