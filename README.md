@@ -1,6 +1,6 @@
 ## Hello there, I'm Estefy Ramirez - Frontend Developer 👋🏽
 
--  👩🏽‍💻 ✨I'm from Mexico and I have experience with JS, HTML, CSS and React.
+-  👩🏽‍💻 ✨I'm from Mexico 
 
 - 🔭 I’m currently working on JS, HTML, CSS and React
 - 🌱 I’m currently learning React Hooks
